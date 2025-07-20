@@ -87,7 +87,7 @@ struct SegmentIntersection {
 
 /**
  * This is the main function to test whether the algorithm is
- * working well.
+ * working correctly.
  */
 int main() {
     SegmentIntersection segment;
